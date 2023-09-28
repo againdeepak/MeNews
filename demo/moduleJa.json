@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Chris Bumbaca",
+            "title": "NFL's 'best' defense? Cowboys stake their claim in pummeling of Giants - USA TODAY",
+            "description": "The Cowboys racked up seven sacks of Daniel Jones and blanked the rival Giants in what proved to be a statement performance for the defense.",
+            "url": "https://www.usatoday.com/story/sports/nfl/cowboys/2023/09/11/dallas-cowboys-defense-micah-parsons-new-york-giants/70820525007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/09/11/USAT/4e98670e-c48d-4370-bbeb-539765b42fd4-USP_NFL__Dallas_Cowboys_at_New_York_Giants.jpg?crop=2999,1687,x0,y46&width=2999&height=1687&format=pjpg&auto=webp",
+            "publishedAt": "2023-09-12T09:33:59Z",
+            "content": "EAST RUTHERFORD, N.J. Following an offseason of going up against the Dallas Cowboys' defensive line in practice, Dak Prescott was more than happy to see the vaunted front terrorize a different team.\r… [+4406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Michael David Smith",
+            "title": "Josh Allen blames himself for trying to force the ball: \"I am the reason we lost\" - NBC Sports",
+            "description": "Bills quarterback Josh Allen says the reason his team lost to the Jets on Monday night was simple: He didn't take care of the football.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-allen-blames-himself-for-trying-to-force-the-ball-i-am-the-reason-we-lost",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/4d2a7ee/2147483647/strip/true/crop/4919x2767+0+257/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2Fae%2F85%2Fa6f02e8248bcb67b39f88a7bf460%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1675180187",
+            "publishedAt": "2023-09-12T09:31:47Z",
+            "content": "Bills quarterback Josh Allen says the reason his team lost to the Jets on Monday night was simple: He didnt take care of the football.\r\nTrying to force the ball, Allen said after the game. Same shit.… [+638 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "The DOJ's antitrust trial against Google over its search dominance begins - NPR",
+            "description": "The biggest antitrust trial in nearly 25 years kicks off on Tuesday as the Justice Department makes its case that Google is an illegal monopoly.",
+            "url": "https://www.npr.org/2023/09/12/1198558372/doj-google-monopoly-antitrust-trial-search-engine",
+            "urlToImage": "https://media.npr.org/assets/img/2023/09/08/gettyimages-828901244_wide-c71a782902795eb7f97a68057b9208f97b001116-s1400-c100.jpg",
+            "publishedAt": "2023-09-12T09:00:37Z",
+            "content": "Google is headed to trial in Washington D.C., where it will defend itself over the Justice Department's claims that it abused its monopoly power in its search engine business.\r\nLeon Neal/Getty Images… [+5663 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Sahil Kapur, Garrett Haake, Ali Vitali, Kate Santaliz, Brennan Leach",
+            "title": "Kevin McCarthy faces a 'perfect storm' of demands as a shutdown looms - NBC News",
+            "description": "When the House returns Tuesday, Speaker Kevin McCarthy will confront deadlines and intraparty conflicts, raising fears of a government shutdown.",
+            "url": "https://www.nbcnews.com/politics/congress/kevin-mccarthy-faces-perfect-storm-demands-shutdown-looms-rcna104490",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230719-Kevin-McCarthy-Elise-Stefanik-ew-252p-2df666.jpg",
+            "publishedAt": "2023-09-12T09:00:00Z",
+            "content": "WASHINGTON When the House returns Tuesday, Speaker Kevin McCarthy will confront a series of legislative deadlines and intraparty conflicts that have been bubbling up for months, raising fears of a go… [+7151 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "David K. Li",
+            "title": "Aaron Rodgers injures Achilles, New York Jets beat Buffalo Bills in overtime - NBC News",
+            "description": "The much-heralded New York Jets debut of future Hall of Fame quarterback Aaron Rodgers ended with an injury — perhaps a season-ending one — after only a handful of plays on Monday.",
+            "url": "https://www.nbcnews.com/news/sports/aaron-rodgers-injured-new-york-jets-rcna104550",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230912-aaron-rodgers-mb-1115-b3ee89.jpg",
+            "publishedAt": "2023-09-12T08:46:00Z",
+            "content": "The much-heralded New York Jets debut of future Hall of Fame quarterback Aaron Rodgers ended with an injuryperhaps a season-ending one after only a handful of plays on Monday. \r\nBuffalo Bills linebac… [+3700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Beyond Earth: Webb Space Telescope Detects Key Molecules on Exoplanet K2-18 b - SciTechDaily",
+            "description": "Data hints at exoplanet possessing possible liquid ocean surface. Carbon-bearing molecules have been discovered in the atmosphere of the habitable zone exoplanet K2-18 b by an international team of astronomers using data from NASA’s James Webb Space Telescope…",
+            "url": "https://scitechdaily.com/beyond-earth-webb-space-telescope-detects-key-molecules-on-exoplanet-k2-18-b/",
+            "urlToImage": "https://scitechdaily.com/images/Exoplanet-K2-18-b-scaled.jpg",
+            "publishedAt": "2023-09-12T08:25:31Z",
+            "content": "BySpace Telescope Science InstituteSeptember 12, 2023\r\nThis artists concept shows what exoplanet K2-18 b could look like based on science data. K2-18 b, an exoplanet 8.6 times as massive as Earth, or… [+11219 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "S. Dev, Ramy Inocencio",
+            "title": "American rescued from cave in Turkey and said to be doing well after more than a week trapped underground - CBS News",
+            "description": "Cave expert Mark Dickey was hit with gastric pain last weekend while helping to chart the cave system, leaving him stuck more than 3,200 feet underground.",
+            "url": "https://www.cbsnews.com/news/mark-dickey-american-explorer-rescued-cave-turkey/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/08/95fd16ba-5f97-4add-8eaa-c9f49d1b9167/thumbnail/1200x630g1/1ba2f7cf8b339fb6d0d9846eaa2a3fe1/mark-dickey-turkey-cave-2023.jpg?v=4e5c11166f529429e37bbcbb597e9315",
+            "publishedAt": "2023-09-12T08:10:00Z",
+            "content": "American explorer Mark Dickey was rescued from a cave in southern Turkey on Monday night, the Turkish Caving Federation said. Dickey \"was taken out of the last exit of the cave\" a little past midnigh… [+1850 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "The iPhone 15 Pro's New Action Button: What to Expect - MacRumors",
+            "description": "Apple's upcoming iPhone 15 Pro and iPhone 15 Pro Max models will introduce a new Action button that will replace the traditional Ring/Silent...",
+            "url": "https://www.macrumors.com/2023/09/12/the-iphone-15-pros-new-action-button-what-to-expect/",
+            "urlToImage": "https://images.macrumors.com/t/9038993-PAP0TbY1xSI39nRbY6M=/2500x/article-new/2023/03/iPhone-15-Pro-Volume-Rocker-and-Titanium-Thumb.jpg",
+            "publishedAt": "2023-09-12T07:47:20Z",
+            "content": "Apple's upcoming iPhone 15 Pro and iPhone 15 Pro Max models will introduce a new Action button that will replace the traditional Ring/Silent switch a staple of the iPhone since it launched in 2007. H… [+2385 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": null,
+            "title": "Apple Event 2023: Today Is the Expected iPhone 15 Reveal and More - CNET",
+            "description": "Today, we could see the iPhone 15, Apple Watch Series 9, Apple Watch Ultra 2 and, maybe, an iPhone 15 Ultra announced.",
+            "url": "https://www.cnet.com/tech/mobile/apple-event-2023-today-is-the-expected-iphone-15-reveal-and-more/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c64f533ecce92c63db1637326997a13a734c2be9/hub/2023/08/29/0ff7863d-bfc5-44a1-ab0c-70578ce8ca24/apple-event-111223-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-09-12T07:30:00Z",
+            "content": "Today is Apple's Wonderlust event, and we expect to see the rumored iPhone 15 and new Apple Watches announced. You can watch Apple's Wonderlust event stream starting at 10 a.m. PDT/1 p.m. EDT. This w… [+8479 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "NASA astronaut Frank Rubio sets record for longest U.S. space mission - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/09/11/nasa-astronaut-spaceflight-record-frank-rubio",
+            "urlToImage": null,
+            "publishedAt": "2023-09-12T06:46:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Lindsay Weinberg",
+            "title": "Why the LaBrant Family's Song \"Like Taylor Swift\" Is Dividing Fans - E! NEWS",
+            "description": "LaBrant family influencer Everleigh Rose's first song \"Like Taylor Swift\" sparked debate online about her age and the song lyrics, prompting fellow dancer JoJo Siwa to defend her from \"bullying.\"",
+            "url": "https://www.eonline.com/news/1385250/jojo-siwa-defends-influencer-everleigh-labrant-after-like-taylor-swift-song-controversy",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2023811/cr_1200x1200-230911145927-83346482_174106514128818_1658398414217898331_n_1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2023-09-12T06:18:00Z",
+            "content": "Everleigh Rose is in her fearless era.\r\nThe 10-year-old influencerwho stars in mom Savannah LaBrant and stepdad Cole LaBrant's social media contentdebuted her first song \"Like Taylor Swift\" and an ac… [+1025 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Outrage over New Mexico governor's temporary gun ban - POLITICO",
+            "description": "“It’s unconstitutional, so there’s no way we can enforce that order,” Bernalillo County Sheriff John Allen said.",
+            "url": "https://www.politico.com/news/2023/09/12/outrage-new-mexico-governor-temporary-gun-ban-00115173",
+            "urlToImage": "https://static.politico.com/66/49/754e1c5f47299a787f1d879d41a5/albuquerque-guns-80165.jpg",
+            "publishedAt": "2023-09-12T04:09:35Z",
+            "content": "The sheriff who oversees the county that includes New Mexicos largest city, Albuquerque, vowed Monday not to enforce it, joining the countys top prosecutor, and the Albuquerque mayor and citys police… [+4948 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "John Dias, Dick Brennan, Zinnia Maldonado",
+            "title": "New York City pauses to remember those killed in 9/11 terror attacks - CBS New York",
+            "description": "Moments of silence throughout the morning honored the men, women and children who died 22 years ago on this day.",
+            "url": "https://www.cbsnews.com/newyork/news/watch-live-new-york-city-pauses-to-remember-those-killed-in-911-terror-attacks/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/09/11/0475c9cf-3237-48a1-b3ab-d1e459f6acda/thumbnail/1200x630/5316c56eb7aceb667d7802866f58a38e/remembering-911.jpg?v=4e5c11166f529429e37bbcbb597e9315",
+            "publishedAt": "2023-09-12T03:58:00Z",
+            "content": "NEW YORK -- New York City and the world are remembering 9/11 this morning in Lower Manhattan, where the Twin Towers fell. \r\nCeremonies to honor our brave first responders and pay tribute to the thous… [+5015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Buffalo Bills vs. New York Jets | 2023 Week 1 Game Highlights - NFL",
+            "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+            "url": "https://www.youtube.com/watch?v=Zk8DnHKqBRg",
+            "urlToImage": "https://i.ytimg.com/vi/Zk8DnHKqBRg/maxresdefault.jpg",
+            "publishedAt": "2023-09-12T03:38:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "Flooding creates a disaster zone in Libya from Storm Daniel - NPR",
+            "description": "The confirmed death toll from the weekend flooding did not include Derna, which was inaccessible, and many of the thousands missing there were believed carried away by waters after two dams burst.",
+            "url": "https://www.npr.org/2023/09/11/1198849018/flooding-creates-disaster-zone-libya",
+            "urlToImage": "https://media.npr.org/assets/img/2023/09/11/ap23254814658271_wide-25a1c651bc62e743844880bd8bf6d2703bd1475b-s1400-c100.jpg",
+            "publishedAt": "2023-09-12T03:35:49Z",
+            "content": "In this photo provided by the Libyan government, a car sits partly suspended in trees after being carried by floodwaters in Derna, Libya, on Monday, Sept. 11, 2023.\r\nAP\r\nCAIRO Mediterranean storm Dan… [+5827 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Esther Webber, Stuart Lau",
+            "title": "Shock and recriminations as Chinese spy scandal rocks UK parliament - POLITICO Europe",
+            "description": "Rishi Sunak under pressure to toughen stance on Beijing.",
+            "url": "https://www.politico.eu/article/shock-and-recriminations-as-chinese-spy-scandal-rocks-uk-parliament/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/09/11/GettyImages-1653862234-1-scaled.jpg",
+            "publishedAt": "2023-09-12T03:02:00Z",
+            "content": "LONDON Rishi Sunak has spent most of his brief premiership treading a delicate balance on relations with China. \r\nSo the last thing the British prime minister needed as he enters a careful autumn of … [+4666 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Nobel laureate Maria Ressa acquitted in Philippines tax evasion case - Al Jazeera English",
+            "description": "Journalist who founded Rappler news outlet faces multiple charges brought while Rodrigo Duterte was president.",
+            "url": "https://www.aljazeera.com/news/2023/9/12/nobel-laureate-maria-ressa-acquitted-in-philippines-tax-evasion-case",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/33UN3BD-highres-1694486665.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-09-12T03:00:22Z",
+            "content": "Maria Ressa, a Nobel prize winner and co-founder of the online news site Rappler, has been acquitted of a tax evasion charge in the Philippines, another legal victory in her battle against multiple c… [+2183 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Will McDuffie, Hannah Demissie",
+            "title": "DeSantis, visiting with 9/11 families, calls for 'transparency and accountability' - ABC News",
+            "description": "The 2024 GOP candidate said more intelligence documents must be released.",
+            "url": "https://abcnews.go.com/Politics/desantis-visiting-911-families-calls-transparency-accountability/story?id=103099830",
+            "urlToImage": "https://i.abcnewsfe.com/a/9f510ca6-ed0d-4335-a137-09f9ad1b4ca7/DeSantis-rt-ml-230911_1694436620230_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-09-12T02:20:01Z",
+            "content": "Florida Gov. Ron DeSantis attended a 9/11 commemoration ceremony at ground zero in New York City on Monday, appearing with more than a dozen people who lost family members on Sep. 11.\r\nThe group, man… [+3125 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jake Kwon, Gawon Bae, Jessie Yeung, Brad Lendon, Helen Regan",
+            "title": "Kim Jong Un heads to Russia on armored train to meet Vladimir Putin after US warnings of weapons deal - CNN",
+            "description": "Kim Jong Un’s heavily-armored private train has been geolocated at the Russian border ahead of an expected and closely-watched summit with Russian President Vladimir Putin, amid warnings from the United States that the two leaders could strike an arms deal.",
+            "url": "https://www.cnn.com/2023/09/11/asia/kim-jong-un-north-korea-russia-meeting-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230911094721-kim-jong-un-file-090823.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-12T01:50:00Z",
+            "content": "Kim Jong Uns heavily-armored private train has been geolocated at the Russian border ahead of an expected and closely-watched summit with Russian President Vladimir Putin, amid warnings from the Unit… [+5120 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC Chicago"
+            },
+            "author": null,
+            "title": "FDA greenlights fall COVID boosters amid uptick in cases. Here's who is eligible - NBC Chicago",
+            "description": "The Food and Drug Administration signed off on updated COVID boosters from both Moderna and Pfizer on Monday, setting the stage for a rollout at a time when…",
+            "url": "https://www.nbcchicago.com/news/local/fda-greenlights-fall-covid-boosters-amid-uptick-in-cases-heres-who-is-eligible/3225376/",
+            "urlToImage": "https://media.nbcchicago.com/2021/01/COVID-Vaccine-Generic.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-09-12T01:43:53Z",
+            "content": "The Food and Drug Administration signed off on updated COVID boosters from both Moderna and Pfizer on Monday, setting the stage for a rollout at a time when some communities across the country, inclu… [+2333 chars]"
+        }
+    ]
+}
