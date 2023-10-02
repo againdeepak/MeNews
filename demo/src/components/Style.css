@@ -1,0 +1,6 @@
+.parent{
+    position: sticky;
+}
+.child{
+    top:0px;
+}

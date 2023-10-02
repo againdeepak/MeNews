@@ -3,14 +3,15 @@ import React, { Component } from 'react'
 import Navbar from './components/Navbar';
 import News from './components/News';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Footer from './components/Footer';
 export default class App extends Component {
   render() {
-    const numofPage=12;
+    const numofPage=99
     return (
       
       <div>
         <BrowserRouter>
-          <Navbar />
+         <Navbar />
           <Routes>
             <Route exact strict path="/" element={<News key="general" pageSize={numofPage} country="in" category="general"  />} />
             <Route exact  path="/home" element={<News key="general" pageSize={numofPage} country="in" category="general" />} />
@@ -22,6 +23,7 @@ export default class App extends Component {
             <Route exact strict path="/general" element={<News key="general" pageSize={numofPage} country="in" category="general" />} />
             <Route exact strict path="/technology" element={<News key="technology" pageSize={numofPage} country="in" category="technology" />} />
           </Routes>
+          <Footer/>
         </BrowserRouter>
       </div>
 
