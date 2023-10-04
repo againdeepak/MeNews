@@ -25,6 +25,7 @@ export class News extends Component {
     document.title = `${this.props.category.charAt(0).toUpperCase() + this.props.category.slice(1)} - MeNews`;
   }
   async updateNews() {
+    this.props.setProgress(10);
     const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=25de0af14ed74eb18f1768161b0057e9&page=1&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
@@ -32,21 +33,24 @@ export class News extends Component {
     this.setState({
       articles: parseData.articles,
       totalResults: parseData.totalResults,
-      loading: false
-
+      loading: false,
     })
+    this.props.setProgress(100);
+
+
+  
   }
   async componentDidMount() {
     this.updateNews();
   }
-  handlePrevClick = async () => {
-    this.setState({ page: this.state.page - 1 });
-    this.updateNews();
-  }
-  handleNextClick = async () => {
-    this.setState({ page: this.state.page + 1 });
-    this.updateNews();
-  }
+  // handlePrevClick = async () => {
+  //   this.setState({ page: this.state.page - 1 });
+  //   this.updateNews();
+  // }
+  // handleNextClick = async () => {
+  //   this.setState({ page: this.state.page + 1 });
+  //   this.updateNews();
+  // }
   fetchMoreData= async ()=>{
     this.setState({page: this.state.page+1})
     const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=25de0af14ed74eb18f1768161b0057e9&page=1&pageSize=${this.props.pageSize}`;
@@ -57,7 +61,6 @@ export class News extends Component {
       articles: this.state.articles.concat(parseData.articles),
       totalResults: parseData.totalResults,
       // loading: false
-
     })
     
   }
@@ -74,7 +77,7 @@ export class News extends Component {
           hasMore={this.state.articles.length !== this.state.totalResults}
           loader={<Spinner />}
         >
-          <div className='mx-2'>
+          <div className=' container '>
           <div className='row my-3'>
             {this.state.articles.map((element) => {
               return <div className='col-md-4' key={element.url}>

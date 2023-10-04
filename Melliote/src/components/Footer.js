@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 export default function Footer() {
     return (
-        <div className='mx-2 my-3'>
+        <div className='  mx-2 my-3'>
             <div className="card text-center bg-dark text-light">
                 <div className="card-header">
                     News
